@@ -24,3 +24,6 @@ contract B{
   }
 }
 ```
+
+- 기본 문법은 [contract명] [instance이름] = new [contract명]();
+- instance 를 사용하면 gas 사용양이 많이 늘어나기에 좋지는 않다.

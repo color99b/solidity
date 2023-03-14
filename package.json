@@ -1,0 +1,15 @@
+{
+  "name": "solidity",
+  "version": "1.0.0",
+  "description": "- 정의 : smart contracts 개발을 위한 고급 언어",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier-plugin-solidity": "^1.1.3"
+  }
+}

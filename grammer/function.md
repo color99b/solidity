@@ -21,8 +21,8 @@ function 이름 () 접근연산자 {
 
   - 2. Parameter는 있고 return 값이 없는 경우
     ```solidity
-    function changeValue2 (uint _value) public {
-    a=_value;
+    function changeValue2(uint _value) public {
+      a = _value;
     }
     ```
   - 3. parameter 도 있고 return 도 있는 경우
